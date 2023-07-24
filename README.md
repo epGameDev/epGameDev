@@ -1,5 +1,7 @@
 # Eric Philippot
 
+[My Website](https://ericphilippot.com "ericphilippot.com")
+
 I am a self taught game and web developer. Started back in 2016 with game development learning the basics, then in 2019 I started to tinker in web development. 
 
 - I love to play with the Raspberry Pi SBC and build servers. I also love spending time outdoors, going for hikes or staring out the window like a cat. 
